@@ -63,4 +63,6 @@ button:active {
 }
 
 .operator:active {
+    background-color: hsl(38, 100%, 70%);
+
 }
