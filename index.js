@@ -9,5 +9,9 @@ function clearDisplay() {
 };
 
 function calculate() {
-    
+    try {
+        
+    } catch {
+
+    }
 };
