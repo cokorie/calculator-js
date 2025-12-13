@@ -12,6 +12,6 @@ function calculate() {
     try {
         display.value = eval(display.value);
     } catch {
-        display.value = "ERROR"
+        display.value = "NOPE"
     }
 };
