@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A simple calculator built primarily using JavaScript, allowing the user to:
+A simple desktop calculator built primarily using JavaScript, allowing the user to:
 * Add
 * Subtract 
 * Multiply 
@@ -11,5 +11,8 @@ A simple calculator built primarily using JavaScript, allowing the user to:
 * CSS
 * JavaScript
 * GitHub
+
+##### Calculator
+![Calculator](/images/calculator.png)
 
 Enjoy!
